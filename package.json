@@ -1,0 +1,24 @@
+{
+  "name": "try-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BB-Simon/try-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BB-Simon/try-jest/issues"
+  },
+  "homepage": "https://github.com/BB-Simon/try-jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "type": "module"
+}
